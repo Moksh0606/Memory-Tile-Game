@@ -1,15 +1,3 @@
-Images of Cards:
-![water](https://github.com/user-attachments/assets/6c9dfba7-6eee-43a3-ba2d-cc3695b883e7)
-![psychic](https://github.com/user-attachments/assets/9b9c984e-1ccc-4225-9c13-0db701eb7b30)
-![metal](https://github.com/user-attachments/assets/c39391b4-37ef-4a27-b674-2c3cd43bbf34)
-![lightning](https://github.com/user-attachments/assets/bbbaa545-c72e-49c6-9d76-77e5f3a7be5b)
-![grass](https://github.com/user-attachments/assets/bd805760-905e-4e77-a261-1bd48c2dc8b7)
-![fire](https://github.com/user-attachments/assets/98d1f207-f5a5-4dff-a26a-bf3b74ff4456)
-![fighting](https://github.com/user-attachments/assets/8288ab14-a963-4554-bd4a-9f8925931bc7)
-![fairy](https://github.com/user-attachments/assets/5be866f0-6a2d-450d-a3aa-d588f2bf99dd)
-![double](https://github.com/user-attachments/assets/2ade74f2-5e2f-458f-ba6d-057bff43dbc3)
-![darkness](https://github.com/user-attachments/assets/105076fd-29b6-4137-b5f2-2267350520ca)
-![back](https://github.com/user-attachments/assets/f2ed8abb-f602-44c3-b266-cf753b0a79bb)
 
 App Class:
 public class App {
